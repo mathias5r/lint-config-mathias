@@ -1,0 +1,19 @@
+{
+  "name": "@mathias5r/prettier-config",
+  "version": "4.0.1",
+  "description": "My prettier configs",
+  "author": "Mathias <mathias.silva@agriness.com>",
+  "homepage": "https://github.com/mathias5r/lint-config-mathias#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathias5r/lint-config-mathias.git"
+  },
+  "dependencies": {
+    "prettier": "^2.1.1"
+  }
+}
