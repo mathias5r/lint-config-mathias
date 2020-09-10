@@ -1,6 +1,6 @@
 {
   "name": "@mathias/eslint-config-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My eslint configs for react projects",
   "author": "Mathias <mathiassilva4@gmail.com>",
   "homepage": "",
