@@ -1,5 +1,5 @@
 {
-  "name": "@mathias/eslint-config-typescript",
+  "name": "@mathias5r/eslint-config-typescript",
   "version": "4.0.0",
   "description": "My eslint configs for typescript project",
   "author": "Mathias <mathias.silva@agriness.com>",
@@ -17,5 +17,6 @@
     "@typescript-eslint/eslint-plugin": "^3.5.0",
     "@typescript-eslint/parser": "^3.5.0",
     "eslint-import-resolver-typescript": "^2.0.0"
-  }
+  },
+  "gitHead": "c38df9024408f0c174c45405149a0dd2d2b22c8f"
 }
