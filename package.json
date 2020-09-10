@@ -1,5 +1,5 @@
 {
-  "name": "mathias",
+  "name": "@mathias5r/root",
   "private": false,
   "devDependencies": {
     "lerna": "^3.22.1"

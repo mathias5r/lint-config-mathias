@@ -1,5 +1,5 @@
 {
-  "name": "@mathias/eslint-config-react",
+  "name": "@mathias5r/eslint-config-react",
   "version": "2.0.0",
   "description": "My eslint configs for react projects",
   "author": "Mathias <mathiassilva4@gmail.com>",
@@ -22,5 +22,5 @@
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-react": "^7.20.3"
   },
-  "gitHead": "4c1c71a8cf7ae4b8ccb163d5cd98d8b755e6b33b"
+  "gitHead": "262ce881581d92f4db75a62c1bf4b610cb569b0e"
 }
