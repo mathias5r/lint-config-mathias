@@ -1,0 +1,8 @@
+{
+  "name": "mathias",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "version": "0.0.0"
+}
