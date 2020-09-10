@@ -1,6 +1,6 @@
 {
   "name": "@mathias5r/eslint-config-typescript",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "My eslint configs for typescript project",
   "author": "Mathias <mathias.silva@agriness.com>",
   "homepage": "https://github.com/mathias5r/lint-config-mathias#readme",
