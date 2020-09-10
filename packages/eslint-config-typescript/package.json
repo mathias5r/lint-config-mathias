@@ -1,0 +1,21 @@
+{
+  "name": "@mathias/eslint-config-typescript",
+  "version": "3.0.0",
+  "description": "My eslint configs for typescript project",
+  "author": "Mathias <mathias.silva@agriness.com>",
+  "homepage": "https://github.com/mathias5r/lint-config-mathias#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathias5r/lint-config-mathias.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.5.0",
+    "@typescript-eslint/parser": "^3.5.0",
+    "eslint-import-resolver-typescript": "^2.0.0"
+  }
+}
