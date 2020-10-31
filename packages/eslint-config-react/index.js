@@ -11,4 +11,12 @@ module.exports = {
         "plugin:import/errors",
         "plugin:import/warnings"
     ],
+    overrides: [
+        {
+            "files": ["**/*.tsx"],
+            "rules": {
+                "react/prop-types": "off"
+            }
+        }
+    ]
 }
